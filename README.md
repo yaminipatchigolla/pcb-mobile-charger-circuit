@@ -41,3 +41,7 @@ To view or modify this project:
 1. Open **Proteus 8 Professional**
 2. Load the `.pdsprj` file for the schematic
 3. Open the `.ypd` file for PCB layout in ARES
+
+
+
+
